@@ -9,3 +9,6 @@ bin/**
 test-storage*
 
 node_modules
+
+package.yaml
+npm-shrinkwrap.json
